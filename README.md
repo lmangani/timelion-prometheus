@@ -4,6 +4,7 @@
 
 This plugin allows rendering data from [Prometheus](https://prometheus.io) in Timelion, without having to duplicate timeseries into Elasticsearch.
 
+<img src="https://user-images.githubusercontent.com/1423657/43331984-45567128-91c7-11e8-98bd-506cdcaa77c2.png" width=600 />
 
 
 ## Installation instructions
