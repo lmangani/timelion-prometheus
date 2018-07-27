@@ -39,6 +39,7 @@ If you are using a version of Kibana, you will need to edit kibana.version in th
 
 #### Other plugins that might be of interest
 
+* [InfluxDB](https://github.com/lmangani/timelion-influxdb) - query and display InfluxDB data in Timelion
 * [Random](https://github.com/rashidkpc/timelion-random) (by the author of Timelion) - A demo showing how to create a timelion plugin
 * [USAFacts](https://github.com/rashidkpc/timelion-usafacts) (by the author of Timelion) - grabs series data from [usafacts.org](http://usafacts.org)
 * [Google Analytics](https://github.com/bahaaldine/timelion-google-analytics) - brings Google Analytics data to Timelion
